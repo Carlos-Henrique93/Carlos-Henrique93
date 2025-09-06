@@ -19,13 +19,13 @@ Atuo como Analista de Suporte e Implantação Júnior nas UPAs de Piracicaba, se
 - **Linguagens:** Java, SQL, JavaScript, HTML, CSS  
 - **Frameworks:** Spring Boot, React, Thymeleaf  
 - **Banco de Dados:** MySQL  
-- **Outros:** Git, GitHub, Power BI  
+- **Outros:** Git, GitHub, Power BI, Docker  
 
 ---
 
 ## 📫 Como me encontrar
 - 🌐 [LinkedIn](https://www.linkedin.com/in/devcarloshcsantos/)  
-- ✉️ **E-mail:** carloshsantos.dev@gmail.com  
+- ✉️ **E-mail:** carlos.henriquesantos@hotmail.com 
 
 ---
 
