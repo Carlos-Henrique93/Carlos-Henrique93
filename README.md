@@ -1,13 +1,15 @@
 # 👋 Olá, eu sou o Carlos!
 
-🎯 Sou Analista de Suporte e Implantação Jr, apaixonado por **desenvolvimento de sistemas**, especialmente com **Java e Spring Boot**.  
-Atualmente estou finalizando a pós-graduação em **Desenvolvimento de Sistemas com Java** e criando projetos para meu portfólio no GitHub.
+Tenho 32 anos e sou apaixonado por tecnologia e desenvolvimento de sistemas.
+Atualmente curso Análise e Desenvolvimento de Sistemas na Unicesumar, onde venho fortalecendo minha base em programação, banco de dados e boas práticas de desenvolvimento.
+
+Atuo como Analista de Suporte e Implantação Júnior nas UPAs de Piracicaba, sendo responsável por implantar sistemas, oferecer suporte aos usuários e garantir que as soluções tecnológicas atendam às demandas da área da saúde.as UPAs de Piracicaba, sendo responsável por implantar sistemas, oferecer suporte aos usuários e garantir que as soluções tecnológicas atendam às necessidades da área da saúde.
 
 ---
 
 ## 🚀 Sobre mim
 - 🔭 Trabalhando atualmente com implantação e suporte ao sistema **SISS** em unidades de saúde.  
-- 📊 Experiência em **SQL** e **Power BI**, com foco em análise de dados e relatórios.  
+- 📊 Experiência em **SQL** e **Levantamento de Requisitos**, com foco em análise de dados e relatórios.  
 - 💻 Criando projetos práticos em **Java, Spring Boot, React, HTML, CSS e MySQL**.  
 - 📚 Aprendendo continuamente para crescer como **Desenvolvedor Java Júnior**.  
 
@@ -18,15 +20,6 @@ Atualmente estou finalizando a pós-graduação em **Desenvolvimento de Sistemas
 - **Frameworks:** Spring Boot, React, Thymeleaf  
 - **Banco de Dados:** MySQL  
 - **Outros:** Git, GitHub, Power BI  
-
----
-
-## 📌 Projetos em destaque
-- 🏥 [Sistema de Atendimento Médico](#) – CRUD completo com cadastro de pacientes, médicos e agendamento de consultas.  
-- ✅ [To-Do List](#) – Gerenciamento de tarefas com prioridade e status.  
-- 🛒 [Sistema de Vendas](#) – Cadastro de produtos, clientes, vendas e relatórios.  
-
-*(👉 Substituir os `#` pelos links reais dos seus repositórios no GitHub)*
 
 ---
 
